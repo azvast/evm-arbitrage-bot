@@ -1,5 +1,5 @@
 {
-  "name": "flash-bot",
+  "name": "evm-arbitrage-bot",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

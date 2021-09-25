@@ -4,9 +4,9 @@ This repo is written only for POC. The bot is implemented simply for demostratio
 
 If you have any question, please read the issues first. You may find your answer there.
 
-# AMM Arbitrageur
+# EVM Arbitrage Bot
 
-An arbitrageur contract can be used to argitrage between Uniswap V2 like AMMs. For Chinese: [中文说明](./README-cn.md)
+A flashbot contract can be used to argitrage between Uniswap V2 like AMMs.
 
 ## The rationale
 
